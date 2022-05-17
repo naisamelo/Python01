@@ -1,2 +1,2 @@
 # Python01
- D:\CursoPyton\Python01
+Curso em Video - Python 3 Mundo 01.
